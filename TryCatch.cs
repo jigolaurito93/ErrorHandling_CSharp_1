@@ -27,6 +27,13 @@ namespace ErrorHandling_CSharp
                 Console.WriteLine("An unexpected error occurred.");
                 Console.WriteLine($"Error details: {ex.Message}");
             }
+            finally
+            {
+                // Code to clean up or finalize
+                // Ideal for cleaning up resources
+                // Like closing file streams, database connections, etc.
+                Console.WriteLine("This block will always execute, regardless of whether an exception was thrown or not.");
+            }
 
 
 

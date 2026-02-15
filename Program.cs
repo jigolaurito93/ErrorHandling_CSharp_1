@@ -5,7 +5,8 @@ namespace ErrorHandling_CSharp
     {
         static void Main(string[] args)
         {
-            TryCatch.usingTryCatch();
+            //TryCatch.usingTryCatch();
+            WhiteBoard1.PrintWithFinally();
         }
     }
 }   
