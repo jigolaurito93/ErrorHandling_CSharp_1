@@ -1,0 +1,15 @@
+C:\Users\j.laurito\Documents\Dev Tools\Repos\C#\ErrorHandling_CSharp\bin\Debug\net8.0\ErrorHandling_CSharp.exe
+C:\Users\j.laurito\Documents\Dev Tools\Repos\C#\ErrorHandling_CSharp\bin\Debug\net8.0\ErrorHandling_CSharp.deps.json
+C:\Users\j.laurito\Documents\Dev Tools\Repos\C#\ErrorHandling_CSharp\bin\Debug\net8.0\ErrorHandling_CSharp.runtimeconfig.json
+C:\Users\j.laurito\Documents\Dev Tools\Repos\C#\ErrorHandling_CSharp\bin\Debug\net8.0\ErrorHandling_CSharp.dll
+C:\Users\j.laurito\Documents\Dev Tools\Repos\C#\ErrorHandling_CSharp\bin\Debug\net8.0\ErrorHandling_CSharp.pdb
+C:\Users\j.laurito\Documents\Dev Tools\Repos\C#\ErrorHandling_CSharp\obj\Debug\net8.0\ErrorHandling_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.laurito\Documents\Dev Tools\Repos\C#\ErrorHandling_CSharp\obj\Debug\net8.0\ErrorHandling_CSharp.AssemblyInfoInputs.cache
+C:\Users\j.laurito\Documents\Dev Tools\Repos\C#\ErrorHandling_CSharp\obj\Debug\net8.0\ErrorHandling_CSharp.AssemblyInfo.cs
+C:\Users\j.laurito\Documents\Dev Tools\Repos\C#\ErrorHandling_CSharp\obj\Debug\net8.0\ErrorHandling_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\j.laurito\Documents\Dev Tools\Repos\C#\ErrorHandling_CSharp\obj\Debug\net8.0\ErrorHandling_CSharp.sourcelink.json
+C:\Users\j.laurito\Documents\Dev Tools\Repos\C#\ErrorHandling_CSharp\obj\Debug\net8.0\ErrorHandling_CSharp.dll
+C:\Users\j.laurito\Documents\Dev Tools\Repos\C#\ErrorHandling_CSharp\obj\Debug\net8.0\refint\ErrorHandling_CSharp.dll
+C:\Users\j.laurito\Documents\Dev Tools\Repos\C#\ErrorHandling_CSharp\obj\Debug\net8.0\ErrorHandling_CSharp.pdb
+C:\Users\j.laurito\Documents\Dev Tools\Repos\C#\ErrorHandling_CSharp\obj\Debug\net8.0\ErrorHandling_CSharp.genruntimeconfig.cache
+C:\Users\j.laurito\Documents\Dev Tools\Repos\C#\ErrorHandling_CSharp\obj\Debug\net8.0\ref\ErrorHandling_CSharp.dll
