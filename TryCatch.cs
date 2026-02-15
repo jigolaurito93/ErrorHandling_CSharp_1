@@ -12,7 +12,8 @@ namespace ErrorHandling_CSharp
             try
             {
                 Console.WriteLine("Please enter a number:");
-                int num1 = int.Parse(Console.ReadLine());
+                //int num1 = int.Parse(Console.ReadLine());
+                int num1 = 1;
                 int num2 = 2;
                 result = num2 / num1;
                 Console.WriteLine($"The result of dividing {num2} by {num1} is: {result}");
