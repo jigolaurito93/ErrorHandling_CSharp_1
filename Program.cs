@@ -1,12 +1,11 @@
 ﻿using System;
-namespace ConsoleApp
+namespace ErrorHandling_CSharp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
+            TryCatch.usingTryCatch();
         }
     }
 }   
